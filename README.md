@@ -33,3 +33,20 @@ Spotify_clone
  |----- style.css
  |
 
+
+ # 💡 Future Improvements
+
+- Add JavaScript to make the player interactive
+- Implement dark/light themes
+- Make it fully responsive for all screen sizes
+
+# 📚 What I Learned
+
+- Building web layouts with Flexbox and CSS Grid
+- Styling elements to match real-world designs
+- Structuring HTML documents properly
+
+# 🙌 Acknowledgements
+
+- Inspired by the Spotify web player UI
+
